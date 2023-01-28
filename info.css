@@ -1,0 +1,41 @@
+html{
+    background-color: #2D459B;
+}
+header{
+    background-color: #575252;
+    text-align: center;
+    color: white;
+}
+table{
+    color: white;
+}
+h3,h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.EPN{
+    border-radius: 8px;
+    width:422px;
+    height:273px;
+}
+.icono{
+    border-radius: 8px;
+    width:250px;
+    height:176px;
+}
+a{
+    font-size: 50px;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:250px;
+    height:200px;
+}
